@@ -1,1 +1,1 @@
-# barber-system
+# HairCut-System
